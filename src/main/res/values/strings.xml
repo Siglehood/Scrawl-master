@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scrawl</string>
+    <string name="save_drawing">Save</string>
+    <string name="clear_drawing">Clear</string>
+</resources>
